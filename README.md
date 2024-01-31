@@ -1,2 +1,2 @@
 # website
-A simple webiste using jekyll
+Made with jekyll by Deepanshu Sharma
